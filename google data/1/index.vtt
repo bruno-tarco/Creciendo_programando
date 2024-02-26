@@ -1,0 +1,1001 @@
+WEBVTT
+
+1
+00:00:00.170 --> 00:00:03.435
+¿Qué tienen en común las empresas de comercio electrónico,
+
+2
+00:00:03.435 --> 00:00:06.840
+entretenimiento, atención médica,
+fabricación,
+
+3
+00:00:06.840 --> 00:00:09.810
+marketing, finanzas, tecnología
+
+4
+00:00:09.810 --> 00:00:13.155
+y cientos de otras
+industrias?
+
+5
+00:00:13.155 --> 00:00:16.440
+Adivinaste:
+todas utilizan datos.
+
+6
+00:00:16.440 --> 00:00:19.500
+Las organizaciones de todo tipo necesitan
+
+7
+00:00:19.500 --> 00:00:22.680
+analistas de datos para
+mejorar sus procesos,
+
+8
+00:00:22.680 --> 00:00:25.095
+identificar oportunidades
+y tendencias,
+
+9
+00:00:25.095 --> 00:00:29.040
+lanzar nuevos productos, proporcionar
+un excelente servicio al cliente
+
+10
+00:00:29.040 --> 00:00:30.855
+y tomar decisiones bien pensadas.
+
+11
+00:00:30.855 --> 00:00:33.480
+Hola, soy Tony, gerente de programa
+
+12
+00:00:33.480 --> 00:00:36.330
+de Google y
+analista de datos.
+
+13
+00:00:36.330 --> 00:00:37.800
+Me gustaría darte la bienvenida
+
+14
+00:00:37.800 --> 00:00:40.005
+al certificado de Google Data
+Analytics.
+
+15
+00:00:40.005 --> 00:00:41.820
+Ahora bien, hay muchas
+
+16
+00:00:41.820 --> 00:00:44.155
+y buenas razones para
+obtener este certificado.
+
+17
+00:00:44.155 --> 00:00:45.990
+Quizá estés pensando
+en empezar
+
+18
+00:00:45.990 --> 00:00:48.915
+una carrera en el emocionante
+mundo del análisis computacional de datos,
+
+19
+00:00:48.915 --> 00:00:50.880
+o tal vez estés fascinado
+
+20
+00:00:50.880 --> 00:00:53.325
+por el poder de los datos como yo.
+
+21
+00:00:53.325 --> 00:00:55.425
+No importa lo que te haya traído aquí,
+
+22
+00:00:55.425 --> 00:00:58.290
+estás en el lugar correcto
+para iniciar una carrera y
+
+23
+00:00:58.290 --> 00:01:02.270
+aprender las habilidades propias
+de la industria del análisis de datos.
+
+24
+00:01:02.270 --> 00:01:05.780
+Pero primero,
+¿qué son exactamente los datos?
+
+25
+00:01:05.780 --> 00:01:07.410
+Bueno, los datos
+
+26
+00:01:07.410 --> 00:01:08.985
+son una colección de hechos.
+
+27
+00:01:08.985 --> 00:01:12.225
+Esta colección puede
+incluir números, imágenes,
+
+28
+00:01:12.225 --> 00:01:16.425
+videos, palabras, mediciones,
+observaciones y más.
+
+29
+00:01:16.425 --> 00:01:18.810
+Una vez que tienes los datos,
+se los analiza
+
+30
+00:01:18.810 --> 00:01:21.030
+mediante el análisis.
+
+31
+00:01:21.030 --> 00:01:25.155
+El análisis de datos es la
+recopilación, transformación
+
+32
+00:01:25.155 --> 00:01:29.160
+y organización de los datos
+para sacar conclusiones,
+
+33
+00:01:29.160 --> 00:01:32.625
+hacer predicciones e impulsar una toma
+de decisiones fundamentada.
+
+34
+00:01:32.625 --> 00:01:34.485
+Y eso no es todo.
+
+35
+00:01:34.485 --> 00:01:37.110
+Los datos evolucionan con el tiempo,
+
+36
+00:01:37.110 --> 00:01:39.540
+lo que significa que este
+análisis o la analítica,
+
+37
+00:01:39.540 --> 00:01:41.190
+como lo llamamos, puede darnos
+
+38
+00:01:41.190 --> 00:01:45.315
+nueva información a lo largo de
+todo el ciclo de vida de los datos.
+
+39
+00:01:45.315 --> 00:01:47.025
+Los datos están en todas partes.
+
+40
+00:01:47.025 --> 00:01:49.740
+Usas y creas datos todos los días.
+
+41
+00:01:49.740 --> 00:01:52.215
+¿Alguna vez has leído
+las reseñas de un producto
+
+42
+00:01:52.215 --> 00:01:54.765
+antes de decidir si
+comprarlo o no?
+
+43
+00:01:54.765 --> 00:01:56.865
+Eso es el análisis de datos.
+
+44
+00:01:56.865 --> 00:01:59.640
+O tal vez monitorees
+tu actividad física para contar
+
+45
+00:01:59.640 --> 00:02:02.640
+tus pasos a fin de mantenerte
+activo durante todo el día.
+
+46
+00:02:02.640 --> 00:02:04.365
+Eso es el análisis de datos.
+
+47
+00:02:04.365 --> 00:02:06.390
+Pero no solo usas datos.
+
+48
+00:02:06.390 --> 00:02:10.480
+También creas enormes cantidades
+de datos todos los días.
+
+49
+00:02:10.480 --> 00:02:13.160
+Cada vez que usas el teléfono,
+
+50
+00:02:13.160 --> 00:02:16.365
+buscas algo
+en línea, haces streaming de música,
+
+51
+00:02:16.365 --> 00:02:17.970
+compras con tarjeta de crédito,
+
+52
+00:02:17.970 --> 00:02:20.370
+publicas en redes sociales o usas
+
+53
+00:02:20.370 --> 00:02:23.685
+el GPS para mapear una ruta,
+estás creando datos.
+
+54
+00:02:23.685 --> 00:02:25.410
+Nuestro mundo digital y
+
+55
+00:02:25.410 --> 00:02:27.420
+los millones de dispositivos
+inteligentes que hay allí
+
+56
+00:02:27.420 --> 00:02:29.130
+hacen que la cantidad de datos
+
+57
+00:02:29.130 --> 00:02:31.975
+disponible realmente sea alucinante.
+
+58
+00:02:31.975 --> 00:02:34.430
+Aquí, en Google,
+procesamos más de
+
+59
+00:02:34.430 --> 00:02:37.670
+40,000 búsquedas por segundo.
+
+60
+00:02:37.670 --> 00:02:40.550
+Eso equivale a 3,500 millones
+de búsquedas al día
+
+61
+00:02:40.550 --> 00:02:44.035
+y a 1,200 billones de
+búsquedas al año.
+
+62
+00:02:44.035 --> 00:02:46.560
+Esta es otra forma
+de pensarlo.
+
+63
+00:02:46.560 --> 00:02:49.800
+YouTube tiene casi
+dos mil millones de usuarios.
+
+64
+00:02:49.800 --> 00:02:52.620
+Si los usuarios de YouTube
+fueran un país,
+
+65
+00:02:52.620 --> 00:02:54.500
+sería el
+más grande del mundo.
+
+66
+00:02:54.500 --> 00:02:57.940
+Todos esos datos están transformando
+el mundo que nos rodea.
+
+67
+00:02:57.940 --> 00:03:00.960
+La publicación The
+Economist recientemente
+
+68
+00:03:00.960 --> 00:03:04.620
+llamó a los datos
+«el recurso más valioso del mundo».
+
+69
+00:03:04.620 --> 00:03:06.240
+Es fácil ver por qué
+
+70
+00:03:06.240 --> 00:03:09.735
+los analistas de datos son tan valorados
+por sus organizaciones.
+
+71
+00:03:09.735 --> 00:03:12.770
+¿Qué hace exactamente
+un analista de datos?
+
+72
+00:03:12.770 --> 00:03:16.635
+En pocas palabras, un analista de datos
+es alguien que colecciona,
+
+73
+00:03:16.635 --> 00:03:19.365
+transforma y organiza datos
+
+74
+00:03:19.365 --> 00:03:21.990
+con el fin de ayudar a tomar
+decisiones fundamentadas.
+
+75
+00:03:21.990 --> 00:03:23.760
+Además de su rol en sí,
+
+76
+00:03:23.760 --> 00:03:25.740
+una de las
+partes más emocionantes de ser
+
+77
+00:03:25.740 --> 00:03:29.160
+analista de datos es la cantidad
+de oportunidades disponibles.
+
+78
+00:03:29.160 --> 00:03:32.400
+La demanda de analistas
+de datos es mayor que
+
+79
+00:03:32.400 --> 00:03:33.810
+la cantidad de personas calificadas
+
+80
+00:03:33.810 --> 00:03:35.400
+para ocupar estas vacantes de empleo.
+
+81
+00:03:35.400 --> 00:03:37.770
+Este programa de certificados es
+
+82
+00:03:37.770 --> 00:03:39.360
+un gran primer paso en
+
+83
+00:03:39.360 --> 00:03:42.330
+tu viaje hacia la búsqueda
+de un trabajo que te encante.
+
+84
+00:03:42.330 --> 00:03:43.710
+Los analistas de datos tienen
+
+85
+00:03:43.710 --> 00:03:45.480
+distintos
+antecedentes y
+
+86
+00:03:45.480 --> 00:03:47.820
+todo tipo de experiencias de vida.
+
+87
+00:03:47.820 --> 00:03:50.475
+No necesitas décadas
+de experiencia laboral
+
+88
+00:03:50.475 --> 00:03:53.520
+ni una educación costosa
+para empezar.
+
+89
+00:03:53.520 --> 00:03:56.100
+Muchos analistas de datos
+aprendieron solos
+
+90
+00:03:56.100 --> 00:03:59.070
+las habilidades que necesitaban
+para conseguir su primer trabajo,
+
+91
+00:03:59.070 --> 00:04:01.690
+como tú estás haciendo ahora.
+
+92
+00:04:02.270 --> 00:04:05.865
+Ahora hablemos más sobre
+lo que vas a aprender.
+
+93
+00:04:05.865 --> 00:04:09.150
+El certificado Google Data Analytics
+se divide en
+
+94
+00:04:09.150 --> 00:04:13.375
+cursos basados en diferentes
+procesos para el análisis de datos.
+
+95
+00:04:13.375 --> 00:04:16.275
+Se trata de preguntar, preparar,
+
+96
+00:04:16.275 --> 00:04:20.820
+procesar, analizar, compartir y actuar.
+
+97
+00:04:20.820 --> 00:04:23.730
+Mira estos
+videos en orden.
+
+98
+00:04:23.730 --> 00:04:26.280
+Cada uno trata de un tema nuevo, y
+
+99
+00:04:26.280 --> 00:04:29.100
+cada tema se basa en lo que
+has aprendido antes,
+
+100
+00:04:29.100 --> 00:04:31.980
+lo que hace que sea fácil
+hacer un seguimiento de tu avance.
+
+101
+00:04:31.980 --> 00:04:34.245
+Tú tienes el control.
+
+102
+00:04:34.245 --> 00:04:38.640
+Aunque veas todo
+organizado por semanas,
+
+103
+00:04:38.640 --> 00:04:41.340
+puedes completarlo
+a tu propio ritmo.
+
+104
+00:04:41.340 --> 00:04:44.850
+Así que tú decides
+cuánto hacer cada día.
+
+105
+00:04:44.850 --> 00:04:46.545
+Al final del programa,
+
+106
+00:04:46.545 --> 00:04:49.500
+te llevarás todo lo que hayas
+aprendido; conviértelo en
+
+107
+00:04:49.500 --> 00:04:52.490
+un proyecto que puedas usar
+para mostrar tus habilidades
+
+108
+00:04:52.490 --> 00:04:56.040
+y sorprender a los gerentes de contratación
+en tus entrevistas de trabajo.
+
+109
+00:04:56.040 --> 00:04:59.280
+También es posible que escuches
+hablar de «Googlers».
+
+110
+00:04:59.280 --> 00:05:02.225
+Así llamamos a las personas
+que trabajan aquí en Google.
+
+111
+00:05:02.225 --> 00:05:04.235
+Ellos podrán darte una visión interna
+
+112
+00:05:04.235 --> 00:05:06.080
+de lo que es trabajar en
+
+113
+00:05:06.080 --> 00:05:07.550
+nuestra industria y compartir
+
+114
+00:05:07.550 --> 00:05:10.430
+historias personales de cómo
+ingresaron en este campo.
+
+115
+00:05:10.430 --> 00:05:12.860
+También te darán
+excelentes consejos
+
+116
+00:05:12.860 --> 00:05:14.935
+sobre cómo conseguir
+el trabajo de tus sueños.
+
+117
+00:05:14.935 --> 00:05:17.450
+Mantente atento. Algunos
+de ellos van a
+
+118
+00:05:17.450 --> 00:05:20.375
+presentarse
+ahora.
+
+119
+00:05:20.375 --> 00:05:23.220
+Soy Angie. Soy gerente del programa
+
+120
+00:05:23.220 --> 00:05:24.685
+de ingeniería en Google.
+
+121
+00:05:24.685 --> 00:05:26.420
+Realmente creo que la limpieza
+
+122
+00:05:26.420 --> 00:05:28.715
+de los datos es el corazón
+de los datos.
+
+123
+00:05:28.715 --> 00:05:30.360
+Así es como logras
+conocer los datos,
+
+124
+00:05:30.360 --> 00:05:33.050
+sus peculiaridades, sus
+defectos, sus misterios.
+
+125
+00:05:33.050 --> 00:05:34.610
+Me encanta un buen misterio.
+
+126
+00:05:34.610 --> 00:05:36.485
+Me parece casi un superpoder.
+
+127
+00:05:36.485 --> 00:05:37.970
+Me sentía como un detective
+
+128
+00:05:37.970 --> 00:05:39.850
+que había
+resuelto algo.
+
+129
+00:05:39.850 --> 00:05:41.295
+Hola, soy Alex.
+
+130
+00:05:41.295 --> 00:05:43.310
+Soy científico investigador
+en Google.
+
+131
+00:05:43.310 --> 00:05:47.180
+Investigo los
+diferentes impactos de la
+
+132
+00:05:47.180 --> 00:05:52.305
+inteligencia artificial
+en la sociedad y nuestros usuarios.
+
+133
+00:05:52.305 --> 00:05:54.000
+Me llamo Lilah Jones.
+
+134
+00:05:54.000 --> 00:05:56.360
+Soy parte del equipo de la nube.
+
+135
+00:05:56.360 --> 00:05:58.640
+Tengo la oportunidad
+de dirigir un equipo de
+
+136
+00:05:58.640 --> 00:06:00.500
+personas increíbles
+
+137
+00:06:00.500 --> 00:06:02.875
+centradas en ayudar a
+los clientes a llegar a la nube.
+
+138
+00:06:02.875 --> 00:06:04.215
+Hola, soy Evan.
+
+139
+00:06:04.215 --> 00:06:06.600
+Soy gerente de portfolio
+de aprendizaje en Google.
+
+140
+00:06:06.600 --> 00:06:07.770
+Tengo uno de los trabajos más geniales
+
+141
+00:06:07.770 --> 00:06:08.760
+del mundo donde
+
+142
+00:06:08.760 --> 00:06:10.800
+veo todas las diferentes
+tecnologías que afectan
+
+143
+00:06:10.800 --> 00:06:12.810
+el big data y luego las incluyo
+
+144
+00:06:12.810 --> 00:06:16.080
+en cursos de capacitación como este
+para que los estudiantes los hagan.
+
+145
+00:06:16.080 --> 00:06:19.110
+Seré tu instructor
+del primero curso.
+
+146
+00:06:19.110 --> 00:06:21.630
+Te guiaré en
+cada módulo, que
+
+147
+00:06:21.630 --> 00:06:24.360
+tratará un tema específico
+de varias formas distintas.
+
+148
+00:06:24.360 --> 00:06:27.900
+Tendrás videos, material de lectura,
+cuestionarios,
+
+149
+00:06:27.900 --> 00:06:31.110
+actividades prácticas y
+temas de discusión
+
+150
+00:06:31.110 --> 00:06:34.740
+para chatear con otros
+estudiantes en un foro en línea.
+
+151
+00:06:34.740 --> 00:06:37.980
+Estoy muy emocionado de guiarte
+en este curso,
+
+152
+00:06:37.980 --> 00:06:39.675
+pero en especial
+
+153
+00:06:39.675 --> 00:06:41.805
+porque has elegido
+esta aventura.
+
+154
+00:06:41.805 --> 00:06:43.800
+El aprendizaje permanente es algo
+
+155
+00:06:43.800 --> 00:06:45.645
+que me apasiona mucho.
+
+156
+00:06:45.645 --> 00:06:47.910
+Cuando crecí, miraba a mi alrededor y
+
+157
+00:06:47.910 --> 00:06:50.590
+a menudo no veía muchas
+opciones disponibles para mí.
+
+158
+00:06:50.590 --> 00:06:52.530
+No fue hasta que empecé a pensar
+
+159
+00:06:52.530 --> 00:06:54.420
+en serio acerca de mi educación que
+
+160
+00:06:54.420 --> 00:06:55.710
+me di cuenta de que tenía
+
+161
+00:06:55.710 --> 00:06:57.975
+el control de generar
+mis propias oportunidades,
+
+162
+00:06:57.975 --> 00:07:01.945
+y la educación era la clave
+que abriría esas puertas.
+
+163
+00:07:01.945 --> 00:07:04.860
+Cuanto más aprendía y
+cuanto más trabajaba,
+
+164
+00:07:04.860 --> 00:07:06.945
+más posibilidades se abrían.
+
+165
+00:07:06.945 --> 00:07:08.610
+Si no hubiera ido tras
+
+166
+00:07:08.610 --> 00:07:11.415
+ese conocimiento y continuado
+con desafíos,
+
+167
+00:07:11.415 --> 00:07:13.515
+quizá hoy no estaría donde estoy.
+
+168
+00:07:13.515 --> 00:07:17.820
+Aprender me permitió crecer
+personalmente, tener éxito,
+
+169
+00:07:17.820 --> 00:07:20.490
+visitar lugares
+que nunca habría visto,
+
+170
+00:07:20.490 --> 00:07:23.035
+y conocer gente
+que nunca habría conocido.
+
+171
+00:07:23.035 --> 00:07:26.790
+Ahora voy a presentar a
+algunas de esas grandes personas.
+
+172
+00:07:26.790 --> 00:07:29.880
+Hola, soy Ximena,
+analista financiera.
+
+173
+00:07:29.880 --> 00:07:31.500
+Te ayudaré a aprender a
+
+174
+00:07:31.500 --> 00:07:33.345
+preguntar correctamente
+sobre los datos,
+
+175
+00:07:33.345 --> 00:07:35.100
+el proyecto en el que trabajas y
+
+176
+00:07:35.100 --> 00:07:37.125
+los problemas que estás
+tratando de resolver.
+
+177
+00:07:37.125 --> 00:07:39.780
+Hola, me llamo Hallie,
+directora de analítica.
+
+178
+00:07:39.780 --> 00:07:42.030
+Estoy muy emocionada de mostrarte cómo
+
+179
+00:07:42.030 --> 00:07:44.760
+preparar tus datos para
+que estén listos para su análisis.
+
+180
+00:07:44.760 --> 00:07:48.585
+Hola, soy Sally, directora de
+analítica y mediciones.
+
+181
+00:07:48.585 --> 00:07:51.810
+Juntos analizaremos cómo
+procesar y limpiar los datos.
+
+182
+00:07:51.810 --> 00:07:54.645
+Para limpiar los datos,
+no es necesario agua y jabón.
+
+183
+00:07:54.645 --> 00:07:57.600
+Me refiero a asegurarse de que
+los datos estén completos,
+
+184
+00:07:57.600 --> 00:07:59.340
+correctos y sean relevantes para
+
+185
+00:07:59.340 --> 00:08:01.410
+el problema que estás
+tratando de resolver.
+
+186
+00:08:01.410 --> 00:08:05.010
+Hola, soy Ayanna,
+gerente de información global.
+
+187
+00:08:05.010 --> 00:08:06.840
+Vamos a profundizar en el análisis.
+
+188
+00:08:06.840 --> 00:08:09.060
+Aprenderás a
+recopilar, transformar,
+
+189
+00:08:09.060 --> 00:08:10.800
+y organizar los datos para que puedas
+
+190
+00:08:10.800 --> 00:08:12.975
+usarlos y descubrir
+información útil,
+
+191
+00:08:12.975 --> 00:08:16.080
+sacar conclusiones y
+tomar excelentes decisiones.
+
+192
+00:08:16.080 --> 00:08:17.820
+Me llamo Kevin y con
+
+193
+00:08:17.820 --> 00:08:20.460
+mi experiencia como director
+de análisis en Google,
+
+194
+00:08:20.460 --> 00:08:22.200
+te guiaré por
+lo que creo que es
+
+195
+00:08:22.200 --> 00:08:23.520
+la parte más emocionante del
+
+196
+00:08:23.520 --> 00:08:26.190
+proceso de análisis de datos: planificar,
+
+197
+00:08:26.190 --> 00:08:27.450
+crear y presentar
+
+198
+00:08:27.450 --> 00:08:30.580
+visualizaciones de datos
+eficaces y convincentes.
+
+199
+00:08:30.580 --> 00:08:33.290
+Hola, me llamo Carrie.
+
+200
+00:08:33.290 --> 00:08:34.940
+Estoy ansiosa por contarte sobre
+
+201
+00:08:34.940 --> 00:08:36.770
+todas las cosas emocionantes que puedes
+
+202
+00:08:36.770 --> 00:08:41.005
+hacer con la programación
+en R. ¿Estás listo?
+
+203
+00:08:41.005 --> 00:08:43.315
+Hola, soy Rishie,
+
+204
+00:08:43.315 --> 00:08:46.310
+gerente del plan de estudios de
+habilidades analíticas globales.
+
+205
+00:08:46.310 --> 00:08:47.810
+Te voy a ayudar a reunir
+
+206
+00:08:47.810 --> 00:08:49.340
+todo lo aprendido
+durante
+
+207
+00:08:49.340 --> 00:08:51.020
+este programa mediante la creación
+
+208
+00:08:51.020 --> 00:08:54.000
+de un caso práctico que dejará perplejo
+a cualquier gerente de contratación.
+
+209
+00:08:54.000 --> 00:08:55.130
+Al igual que el toque final de
+
+210
+00:08:55.130 --> 00:08:57.680
+un gran edificio muestra
+a todos que está completo,
+
+211
+00:08:57.680 --> 00:08:59.449
+tu caso práctico hará alusión a
+
+212
+00:08:59.449 --> 00:09:01.640
+tu gran logro
+de obtener
+
+213
+00:09:01.640 --> 00:09:04.355
+un certificado de Google
+en análisis de datos.
+
+214
+00:09:04.355 --> 00:09:06.800
+¿Te entusiasma
+
+215
+00:09:06.800 --> 00:09:09.200
+la posibilidad de convertirte
+en analista de datos?
+
+216
+00:09:09.200 --> 00:09:11.570
+Hay tantas cosas
+que hacer con los datos.
+
+217
+00:09:11.570 --> 00:09:14.220
+Estás a punto de entrar a
+un mundo completamente nuevo.
+
+218
+00:09:14.220 --> 00:09:17.100
+¿Listo? ¡Vamos!
